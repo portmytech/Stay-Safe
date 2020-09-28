@@ -1,7 +1,7 @@
 {
 	"faq": [
 		{
-			"answer": "https://www.naukri.com/",
+			"answer": "<a href="www.naukri.com">https://www.naukri.com/</a>",
 			"qno": "1",
 			"question": "NAUKRI JOBS - FIND THE BEST JOBS HERE"
 		},
