@@ -3,7 +3,7 @@
 		{
 			"answer": "https://www.naukri.com/",
 			"qno": "1",
-			"question": "NAUKRI JOBS - FIND THE BEST JOBS HERE"
+			"question": "Naukri Jobs - Find The Best Jobs Here"
 		},
 		{
 			"answer": "https://killerlaunch.com/",
@@ -11,23 +11,18 @@
 			"question": "Provides you with the best freshers jobs and internships relevant to your respective field on the platform."
 		},
 		{
-			"answer":"https://www.fresherslive.com/govt-jobs/police-government-jobs"
-			"qno": "3",
-			"question": "Police jobs vaccancies-find and know where to apply and what are the qualification needed for this job andhow many vaccancies are there here."
-		},
-		{
 			"answer": "https://www.fresherslive.com/govt-jobs/police-government-jobs",
-			"qno": "4",
+			"qno": "3",
 			"question": "Find the government jobs here"
 		},
 		{
 			"answer": "https://indianrailways.gov.in/",
-			"qno": "5",
+			"qno": "4",
 			"question": "use this link to see the vaccancies and apply for the jobs"
 		},
 		{
 			"answer": "https://indianrailways.gov.in/",
-			"qno": "6",
+			"qno": "5",
 			"question": "use this link to see the vaccancies and apply for the jobs"
 		}
 	]
